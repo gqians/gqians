@@ -22,7 +22,6 @@
 
 
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gqians&show_icons=true)
 
 ### 🎧 Spotify Playing
