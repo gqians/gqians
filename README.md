@@ -27,7 +27,7 @@
 
 ### 🎧 Spotify Playing
 
-![spotify](https://spotify-recently-played-readme.vercel.app/api?user=g356y96qm1kbqh9gdnwe31vsb)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=g356y96qm1kbqh9gdnwe31vsb&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=g356y96qm1kbqh9gdnwe31vsb&cover_image=true&theme=default)]]
 
 ### end
 ![cropped-2560-1600-547297](https://user-images.githubusercontent.com/38391044/110571909-5f102000-8193-11eb-9d72-adfd930f5ff0.jpg)
