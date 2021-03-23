@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
 </p> -->
 
-<h3 align="center">
+<h3 align="right">
   <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1">
 </h3>
 
