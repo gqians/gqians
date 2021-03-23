@@ -3,10 +3,6 @@
   <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
 </p> -->
 
-<h3 align="right">
-  <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1">
-</h3>
-
 <h1 align="center">Hi 👋, I'm gqians</h1>
 <h3 align="center">A webgis and front-end developer from Chengdu.</h3>
 
