@@ -4,8 +4,7 @@
 </p> -->
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:gqians"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1" align="center">
 </p>
 
 <h1 align="center">Hi 👋, I'm gqians</h1>
@@ -28,5 +27,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g356y96qm1kbqh9gdnwe31vsb&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=g356y96qm1kbqh9gdnwe31vsb&redirect=true)
 
-### end
+### End
 ![cropped-2560-1600-547297](https://user-images.githubusercontent.com/38391044/110571909-5f102000-8193-11eb-9d72-adfd930f5ff0.jpg)
