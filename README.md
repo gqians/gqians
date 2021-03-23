@@ -25,4 +25,6 @@
 
 
 ### End
-![cropped-2560-1600-547297](https://user-images.githubusercontent.com/38391044/110571909-5f102000-8193-11eb-9d72-adfd930f5ff0.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38391044/110571909-5f102000-8193-11eb-9d72-adfd930f5ff0.jpg" width="600" height="400" alt="くろさきいちご" /> 
+</p>
