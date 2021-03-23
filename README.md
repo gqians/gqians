@@ -4,7 +4,7 @@
 </p> -->
 
 <h3 align="center">
-  <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1" align="center">
+  <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1">
 </h3>
 
 <h1 align="center">Hi 👋, I'm gqians</h1>
